@@ -1,4 +1,4 @@
-Machine Learning Projects – Core Algorithms
+## Machine Learning Projects – Core Algorithms
 This repository contains clean, practical implementations of key supervised machine learning algorithms. Each mini-project focuses on a specific ML technique using real-world-like datasets, clear code, and basic model evaluation. Some projects also include pipelines for better preprocessing and reproducibility.
 
 ## Projects Overview
